@@ -12,5 +12,5 @@
     <li> <a href="https://www.kraken.com/">Kraken</a> Pricing API </li>
 </ul>
 
-<p> Change the time intervals to any time frame you prefer. </p>
+<p> Change the time intervals between SMS texts to any time frame you prefer (in seconds). </p>
 <code>time.sleep(30)</code>
