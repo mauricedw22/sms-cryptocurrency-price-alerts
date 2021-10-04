@@ -13,4 +13,4 @@
 </ul>
 
 <p> Change the time intervals to any time frame you prefer. </p>
-```time.sleep(30)```
+<code>time.sleep(30)</code>
