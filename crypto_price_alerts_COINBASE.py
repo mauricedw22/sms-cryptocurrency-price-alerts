@@ -5,7 +5,6 @@ import time
 url = 'https://api.coinbase.com/v2/prices/XLM-USD/buy'
 
 while 1:
-    # First Price Ratio
     coinJson = requests.get(url, timeout=10)
 
     coinResponse = coinJson.json()
