@@ -11,3 +11,6 @@
     <li> <a href="https://www.coinbase.com/">Coinbase</a> Pricing API </li>
     <li> <a href="https://www.kraken.com/">Kraken</a> Pricing API </li>
 </ul>
+
+<p> Change the time intervals to any time frame you prefer. </p>
+```time.sleep(30)```
